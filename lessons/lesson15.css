@@ -1,0 +1,86 @@
+.close-button-15a{
+font-family:arial;
+position: absolute;
+left:-15px;
+top:-15px;
+border-radius: 30px;
+background-color: black;
+color: white;
+padding-left:11px;
+padding-right:11px;
+padding-top:7px;
+padding-bottom:7px;
+}
+
+
+.box-15b{
+background-color: gray;
+position:fixed;
+width:320px;
+height:180px;
+bottom:20px;
+right:20px;
+}
+
+.time-15d{
+    position:absolute;
+background-color: black;
+color: white;
+bottom:8px;
+right:8px;
+padding-left:5px;
+padding-right:5px;
+padding-top:2px;
+padding-bottom:2px;
+font-family: arial;
+}
+
+.shopping-15f{
+position:relative;
+width:200px;
+height:200px;
+background-color: red;
+}
+
+.backpack-15f{
+width:200px;
+height:200px;
+}
+
+.percentage-15f{
+    font-family:arial;
+    font-size:12px;
+position:absolute;
+background-color: black;
+color:white;
+top:8px;
+right:0;
+padding-left: 10px;
+padding-right:10px;
+padding-top:6px;
+padding-bottom:6px;
+}
+
+.buy-15f{
+border:solid;
+background-color: white;
+border-color:black;
+border-width:2px;
+position:absolute;
+padding-top:6px;
+padding-bottom:6px;
+padding-left:6px;
+padding-right:6px;
+top:30px;
+right:55px;
+}
+
+.add-to-cart-15f{
+    background-color: rgba(93, 119, 142, 0.496);
+    position:absolute;
+    bottom:0px;
+    top:120px;
+    right:0;
+    left:0;
+
+}

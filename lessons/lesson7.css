@@ -1,0 +1,159 @@
+.first {
+  width: 200px;
+  border-radius: 10px;
+}
+.second {
+  width: 130px;
+  height: 130px;
+  object-position: center;
+}
+.third {
+  border-radius: 360px;
+  width: 200px;
+  height: 200px;
+  object-position: center;
+  display: inline-block;
+}
+.first-box {
+  border-radius: 5px;
+  border-color: gray;
+  border-style: solid;
+  color: gray;
+}
+.second-box {
+  border: none;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 19px;
+  margin-top: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 400px;
+  height: 20px;
+}
+.twitter-picture {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  vertical-align: middle;
+  object-position: center;
+  vertical-align: middle;
+}
+.twitter-tweet {
+  border: none;
+  vertical-align: middle;
+  font-size: 15px;
+  vertical-align: middle;
+}
+.tweet-button {
+  vertical-align: middle;
+  border: none;
+  color: white;
+  background-color: rgb(4, 139, 206);
+  border-radius: 18px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.twitter-border {
+  padding-bottom: 8px;
+  padding-top: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  width: 380px;
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+  margin-bottom: 30px;
+  display: inline-block;
+  grid-template-columns: 100px 100px 100px;
+}
+.tala {
+  border: none;
+  color: rgba(70, 164, 223, 0.823);
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.oliver {
+  display: inline-block;
+}
+.picture {
+  width: 150px;
+  height: 150px;
+}
+.name {
+  font-family: arial;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.mutual {
+  margin-top: 5px;
+  font-family: arial;
+  color: rgba(95, 91, 90, 0.68);
+}
+.add-friend {
+  color: white;
+  background-color: rgb(4, 139, 206);
+  border-radius: 4px;
+  border: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  cursor: pointer;
+}
+/* Every class ended with rex refers to profiles surrounded with shadow boxes */
+.rex-dog {
+  font-family: arial;
+  margin-top: 20px;
+  width: 150px;
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.5);
+}
+.name-rex {
+  font-weight: bold;
+  margin-bottom: 3px;
+  margin-top: 3px;
+  margin-left: 3px;
+}
+.user-picture-rex {
+  border-radius: 15px;
+  margin-left: 4px;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
+.mutual-rex {
+  font-size: 12px;
+  font-weight: bold;
+  display: inline-block;
+
+  margin-top: 0;
+  margin-bottom: 0px;
+  margin-left: 3px;
+  color: rgba(68, 65, 65, 0.68);
+}
+.add-friend-rex {
+  color: white;
+  background-color: rgb(4, 139, 206);
+  border-radius: 4px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  cursor: pointer;
+  margin-left: 8px;
+  margin-bottom: 10px;
+  border: none;
+}
+
+.rex-grid {
+  display: grid;
+  grid-template-columns: 180px 180px 180px;
+  column-gap: 15px;
+}

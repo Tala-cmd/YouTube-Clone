@@ -1,0 +1,159 @@
+body{
+height:3000px;
+padding-left:60px;
+}
+
+.position-14b{
+    position:fixed;
+    background-color: green;
+    color:white;
+    right:0;
+    top:0;
+    bottom:0;
+    width:100px;
+}
+
+.overlay-14d{
+    position: fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flexbox-14d{
+background-color: white;
+width:300px;
+font-family: arial;
+padding-top:10px;
+padding-left:15px;
+padding-bottom:15px;
+padding-right:15px;
+border-color: black;
+border:solid;
+border-radius: 5px;
+}
+
+.modal-title-14d{
+font-size: 25px;
+font-weight: bold;
+margin-bottom:12px;
+}
+
+.modal-14d{
+padding-top:0px;
+}
+
+.close-14d{
+    position: fixed;
+    border-radius: 5px;
+    border-color:rgb(254, 254, 254);
+    }
+
+    /*////////////////////////////////*/
+    
+
+.oliver-14e{
+  font-weight: bold;
+  font-family: arial;
+  font-size:10px;
+  position:fixed;
+display: flex;
+padding-left: 15px;
+justify-content: space-between;
+width:400px;
+}
+
+.left-side-14e{
+display: flex;
+justify-content: center;
+}
+
+.picture-14e{
+width:40px;
+border-radius: 30px;
+}
+
+.name-14e{
+margin-left:9px;
+margin-top:14px;
+}
+
+.right-side-14e{
+display:flex;
+}
+
+.first-button-14e{
+display:flex;
+flex-direction: row;
+justify-content: space-between;
+border-radius: 5px;
+border:none;
+color:white;
+background-color: rgb(70, 70, 226);
+margin-right:7px;
+padding-top: 12px;
+}
+
+.second-button-14e{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-radius: 5px;
+  padding-top:10px;
+  border:none;
+}
+/*////////////////////////////////*/
+
+.pictures-14f{
+position:fixed;
+background-color: rgb(43, 42, 42);
+top:0;
+bottom:0;
+left:0;
+width: 50px;;
+}
+.cat-14f, .rabbit-14f, .dog-14f{
+width:40px;
+border-radius: 20px;
+display:flex;
+margin-top:10px;
+margin-left:5px;
+}
+
+.right-side-14f{
+font-family:arial;
+font-size:12px;
+position:fixed;
+top:0;
+bottom:0;
+left:50px;
+width:170px;
+background-color: rgb(56, 57, 56);
+
+}
+.info-14f{
+  display: flex;
+  justify-content: space-between;
+  color:white; 
+  padding-left:8px;
+  padding-top:10px;
+}
+
+.plus-14e{
+color: gray;
+padding-right:20px;
+display: flex;
+}
+
+
+.new-videos-14f, .updates-14f, .faq-14f{
+  margin-left:8px;
+  padding-top:10px;
+display: flex;
+color: gray;
+}

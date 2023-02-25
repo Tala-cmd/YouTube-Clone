@@ -1,0 +1,262 @@
+.flexbox13{
+display: flex;
+flex-direction: row;
+height:50px;
+
+}
+
+.column113{
+    background-color: lightpink;
+    display:flex;
+    width:100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.item113{
+background-color: black;
+color: white;
+}
+
+.column213{
+background-color: lightblue;
+width:200px;
+}
+
+.flexbox-13b{
+    margin-top:20px;
+    display: flex;
+}
+
+.column1-13b{
+background-color: lightpink;
+width: 100px;
+height:50px;
+}
+
+.column2-13b{
+width:200px;
+background-color: lightblue;
+}
+
+.row2-13b{
+display: flex;
+flex-direction:  row;
+justify-content: space-between;
+}
+
+.row2-item-13b{
+ background-color: black; 
+ color: white;  
+}
+/************************************************/
+
+
+.flexbox-13c{
+display: flex;
+flex-direction: column;
+margin-top:30px;
+width:350px;
+height:120px;
+border-radius: 3px;
+border:solid;
+border-color: rgb(245, 245, 245);
+box-shadow: inset 1px 2px 3px rgba(0,0,0, 0.05);
+}
+
+.all-inboxes-13c{
+    display:flex;
+    justify-content: start;
+    color: rgb(148, 150, 152);
+    font-size: 13px;
+    padding-left: 12px;
+    font-family: arial;
+    padding-top: 6px;
+}
+
+.email-box-13c{
+display:flex;
+justify-content: start;
+font-size: 13px;
+padding-left: 12px;
+font-family: arial;
+}
+
+
+.picture-13c{
+width:40px;
+border-radius: 60px;
+margin-top:10px;
+display: flex;
+flex-direction: row;
+padding-top: 5px;
+}
+
+.paragraphs-13c{
+justify-content: start;
+display: flex;
+flex-direction: column;
+padding-left: 0px;
+padding-top:10px;
+padding-left:8px;
+}
+
+.promotions-13c{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-top: 3px;
+font-weight: bold;
+font-size: 15px;
+}
+
+.sales-13c{
+font-weight: bold;
+}
+
+.the-email-13c{
+    color: rgb(148, 150, 152);
+}
+.time-13c{
+font-weight: lighter;
+font-size: 12px;
+color: rgb(148, 150, 152);
+}
+
+/************************************************/
+
+.flexbox-13e{
+    display: flex;
+    flex-direction: column;
+    margin-top:30px;
+    width:350px;
+    height:230px;
+    border-radius: 3px;
+    border:solid;
+    border-color: rgb(245, 245, 245);
+    box-shadow: inset 1px 2px 3px rgba(0,0,0, 0.05);
+    }
+    
+    .all-inboxes-13e{
+        display:flex;
+        justify-content: start;
+        color: rgb(148, 150, 152);
+        font-size: 13px;
+        padding-left: 12px;
+        font-family: arial;
+        padding-top: 6px;
+    }
+    
+    .email-box-13e{
+    display:flex;
+    justify-content: start;
+    font-size: 13px;
+    padding-left: 12px;
+    font-family: arial;
+    }
+    
+    
+    .picture-13e{
+    width:40px;
+    border-radius: 60px;
+    margin-top:10px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 5px;
+    }
+    
+    .paragraphs-13e{
+    justify-content: start;
+    display: flex;
+    flex-direction: column;
+    padding-left: 0px;
+    padding-top:10px;
+    padding-left:8px;
+    }
+    
+    .promotions-13e{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 3px;
+    font-weight: bold;
+    font-size: 15px;
+    }
+    
+    .sales-13e{
+    font-weight: bold;
+    }
+    
+    .the-email-13e{
+        color: rgb(148, 150, 152);
+    }
+    .time-13e{
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgb(148, 150, 152);
+    }
+
+    /************************************************/
+
+.flexbox-13f{
+width:400px;
+display: flex;
+margin-top: 20px;
+font-family: arial;
+
+}
+
+.picture-13f{
+margin-top:15px;
+width:50px;
+height:50px;
+border-radius: 25px;
+}
+
+.name-13f{
+margin-top:15px;
+margin-left: 10px; 
+display: flex;
+flex-direction: row;
+justify-content: start;
+font-weight: bold;
+}
+
+.username-13f{
+color: rgb(148, 150, 152);
+padding-left: 6px;
+font-weight: lighter;
+}
+
+.tweet-13f{
+margin-top:3px;
+margin-left:10px;
+}
+
+.box-13f{
+border:solid;
+border-color: rgb(111, 111, 111);
+border-radius: 8px;
+display: flex;
+flex-direction: row;
+border-width:1.2px;
+
+}
+.gray-space-13f{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(220, 220, 220);
+    margin-right: 10px;
+}
+
+.website-13f{
+padding-top:8px;
+padding-left:8px;
+padding-bottom:12px;
+}
+
+.youtube-13f{
+    color: rgb(148, 150, 152);
+    padding-bottom: 4px;
+}
+
